@@ -1,0 +1,22 @@
+# Web & API
+fastapi
+uvicorn
+streamlit
+requests
+
+# Deep Learning & NLP
+transformers
+torch
+nltk
+
+# Data Science & Machine Learning
+pandas
+numpy
+scikit-learn
+lightgbm
+tqdm
+
+# Visualization & Utils
+umap-learn
+matplotlib
+pydantic
