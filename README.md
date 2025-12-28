@@ -38,7 +38,7 @@ The repository is organized to follow industry standards for Data Science projec
 * **`saved_models/`**: Storage for the serialized RoBERTa tokenizer and weights.
 ---
 
-## 🚀 Getting Started
+## Getting Started
 To run this project locally, you'll need to start both the API and the Web Interface in separate terminals:
 
 1.  **Start the API:**
