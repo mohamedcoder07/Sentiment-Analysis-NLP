@@ -1,0 +1,9 @@
+datasets/Reviews.csv
+
+__pycache__
+
+saved_models/*
+saved_models/model_lightgbm.pkl
+
+
+!saved_models/.gitkeep
