@@ -39,7 +39,14 @@ The repository is organized to follow industry standards for Data Science projec
 ---
 
 ## Getting Started
-To run this project locally, you'll need to start both the API and the Web Interface in separate terminals:
+To run this project locally, first navigate to the project's root directory in your terminal:
+
+```bash
+cd Sentiment-analysis
+```
+
+
+Then, you'll need to start both the API and the Web Interface in separate terminals:
 
 1.  **Start the API:**
     ```bash
